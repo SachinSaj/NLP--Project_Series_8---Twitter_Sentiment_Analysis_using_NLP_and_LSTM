@@ -1,1 +1,1 @@
-# NLP--Project_Series_8---Twitter_Sentiment_Analysis_using_NLP_-_LSTM
+# NLP-- Project Series 8 ---> Twitter Sentiment Analysis using NLP & LSTM
